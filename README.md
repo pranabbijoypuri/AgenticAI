@@ -11,6 +11,9 @@ ___
     - 1.2.1 > 'uv sync'
 
 
+### 🌐 Related documentation:
+    - https://www.anthropic.com/engineering/building-effective-agents
+
 ## ENV file details.
     - OPENAI_API_KEY=XXXXX
     - MODEL_NAME=XXXXX
