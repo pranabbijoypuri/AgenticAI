@@ -18,3 +18,8 @@ ___
     - OPENAI_API_KEY=XXXXX
     - MODEL_NAME=XXXXX
     - HF_TOKEN=XXXXX    
+    - LANGSMITH_TRACING=true
+    - LANGSMITH_ENDPOINT=https://api.smith.langchain.com
+    - LANGSMITH_API_KEY=
+    - LANGSMITH_PROJECT=
+    - SERPER_API_KEY=
