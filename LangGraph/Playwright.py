@@ -125,7 +125,9 @@ def chat(user_input: str, history):
 if __name__ == "__main__":
 
     load_dotenv()
-    gr.ChatInterface(chat).launch()
+    # gr.ChatInterface(chat).launch()
+    output_message = chat(user_input="Hi", history=None)
+    print(output_message)
 
 
 
